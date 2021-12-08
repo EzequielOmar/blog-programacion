@@ -18,7 +18,7 @@
     "automattic/batcache": "dev-master",
     "wpackagist-plugin/redis-cache": "*",
     "wpackagist-plugin/secure-db-connection": "*",
-    "humanmade/s3-uploads": "*",
+    "humanmade/s3-uploads": "^3.0",
     "wpackagist-plugin/jetpack": "*",
     "wpackagist-plugin/batcache": "*",
     "wpackagist-plugin/redis-object-cache": "*",
